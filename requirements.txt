@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+pandas_gbq
+google-auth
+google-auth-oauthlib
+python-dotenv
