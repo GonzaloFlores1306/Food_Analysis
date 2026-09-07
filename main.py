@@ -104,6 +104,12 @@ df['Nutritional_Cluster'] = kmeans.fit_predict(X_scaled)
 print("\nFood Distribution per Cluster:")
 print(df['Nutritional_Cluster'].value_counts())
 
+# 2 principal components
+pca = PCA(n_components=2)
+components = pca.fit_transform(X_scaled)
+
+df['PCA1'] = components[:, 0]
+df['PCA2'] = components[:, 1]
 
 # We need to analyze the average characteristics of each group
 
