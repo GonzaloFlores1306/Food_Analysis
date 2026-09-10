@@ -22,12 +22,14 @@ The entire process is orchestrated and automated in the cloud, culminating in an
 **[👉 Click here to access the interactive Power BI Dashboard 👈](https://app.powerbi.com/links/bkdBux8Gyz?ctid=48ba00e0-002e-4cb0-b501-07385d34ec34&pbi_source=linkShare&bookmarkGuid=d651f231-c0c8-4dc7-8cf8-e022aaa801f3)**
 
 ### Page 1: Nutrition Intelligence Engine
-A macroscopic view of the nutritional topography, mapping how the AI clustered the food items based on biological similarity rather than human labels. 
-![Nutrition Intelligence Dashboard](img1.png)
+
+A macroscopic view of the nutritional topography, mapping how the AI clustered the food items based on biological similarity rather than human labels.
+![Nutrition Intelligence Dashboard](img1.JPG)
 
 ### Page 2: Dietary Substitution Engine
+
 An operational tool featuring a dynamic macronutrient simulator. Users can input their target serving size (grams), and the DAX engine recalculates nutritional profiles and ranks the most efficient protein sources in real-time.
-![Diet Simulator Dashboard](img2.png)
+![Diet Simulator Dashboard](img2.JPG)
 
 ## 🧠 Key Analytical Findings
 
